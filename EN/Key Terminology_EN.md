@@ -68,5 +68,5 @@
   A measure of how many transactions can be processed in a given amount of time.
 - Tokenization:
   The process of replacing sensitive data with unique identification symbols that retain all essential information about the data without compromising its security.
-- [x]Appendix:
-     kpmg.com - Topic: Key Terminology - Consensus/Immutable agreement for the Internet of value.
+- [x] Appendix:
+ - [] kpmg.com - Topic: Key Terminology - Consensus/Immutable agreement for the Internet of value.
